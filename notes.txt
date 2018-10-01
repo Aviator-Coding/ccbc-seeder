@@ -1,0 +1,32 @@
+getinfo
+{
+    "version" : 1000001,
+    "protocolversion" : 70002,
+    "walletversion" : 61000,
+    "balance" : 50050.59993220,
+    "zerocoinbalance" : 0.00000000,
+    "blocks" : 14607,
+    "timeoffset" : -1,
+    "connections" : 6,
+    "proxy" : "",
+    "difficulty" : 68086.58465441,
+    "testnet" : false,
+    "moneysupply" : 8014410.60328219,
+    "zCCBCsupply" : {
+        "1" : 1.00000000,
+        "5" : 5.00000000,
+        "10" : 10.00000000,
+        "50" : 50.00000000,
+        "100" : 100.00000000,
+        "500" : 0.00000000,
+        "1000" : 0.00000000,
+        "5000" : 0.00000000,
+        "total" : 166.00000000
+    },
+    "keypoololdest" : 1538232734,
+    "keypoolsize" : 1001,
+    "paytxfee" : 0.00000000,
+    "relayfee" : 0.00010000,
+    "staking status" : "Staking Not Active",
+    "errors" : ""
+}
